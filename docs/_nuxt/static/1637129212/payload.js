@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{user:17,heads:{title:"Portofolio Akbar Malik"},txt2:"My Name Is Akbar Malik",txt3:"I am a Programmer!"}],fetch:[],mutations:[]});
